@@ -1,7 +1,5 @@
 # 🚀 Let's Begin - Your Ultimate Starter Project
 
-![Let's Begin](https://avatars.githubusercontent.com/u/104847857?v=4)
-
 Welcome to **Let's Begin**! This project is designed to kickstart your web development journey with React and Vite. Explore the features, get started quickly, and contribute to make it even better! 🌟
 
 ## 🌐 Live Demo
