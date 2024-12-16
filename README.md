@@ -77,7 +77,7 @@ begin/
 - **Story**: Dynamic 3D transformations
 - **Contact**: Engaging visual elements with clip-path animations
 
-🎨 Design Features
+## 🎨 Design Features
 
 - Custom font implementations
 - Advanced animation sequences
